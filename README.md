@@ -1,6 +1,6 @@
 # Node - Make a Queue Tutorial
 
-This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com](https://docs.freeclimb.com/docs/make-a-queue#section-javascript). Specifically, the project will:
+This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com](https://docs.freeclimb.com/docs/make-a-queue#section-nodejs). Specifically, the project will:
 
 - Makes a call queue 
 - Get the details of the queue
