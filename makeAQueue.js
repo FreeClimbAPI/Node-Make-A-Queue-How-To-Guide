@@ -1,8 +1,8 @@
 require('dotenv').config()
 const freeclimbSDK = require('@freeclimb/sdk')
 const accountId = process.env.ACCOUNT_ID
-const authToken = process.env.AUTH_TOKEN
-const freeclimb = freeclimbSDK(accountId, authToken)
+const apiKey = process.env.API_KEY
+const freeclimb = freeclimbSDK(accountId, apiKey)
 
 const options = {
   alias: 'Tutorial Queue',
