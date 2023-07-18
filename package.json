@@ -1,8 +1,11 @@
 {
   "name": "node-make-a-queue-tutorial",
   "version": "1.0.0",
+  "scripts": {
+    "start": "node makeAQueue.js"
+  },
   "dependencies": {
-    "@freeclimb/sdk": "^1.0.0",
-    "dotenv": "^8.1.0"
+    "@freeclimb/sdk": "^3.4.0",
+    "dotenv": "^16.3.1"
   }
 }
