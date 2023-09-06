@@ -1,6 +1,7 @@
 {
   "name": "node-make-a-queue-tutorial",
   "version": "1.0.0",
+  "license":"MIT",
   "scripts": {
     "start": "node makeAQueue.js"
   },
